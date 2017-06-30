@@ -1,4 +1,4 @@
-Quake Report App
+Book Finder App
 ===================================
 
 This app displays a list of books from the Google Books API
